@@ -4,5 +4,7 @@ public class Demo{
 	public static void main(String args[]){
 	
 		System.out.println("Hii This is Demo");
+		
+		System.out.println("Hello Today is sunday");
 	}
 }
